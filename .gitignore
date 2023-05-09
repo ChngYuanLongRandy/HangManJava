@@ -1,0 +1,5 @@
+#IDE Specific files
+Java/.settings/
+Java/.classpath
+Java/.project
+Java/bin/
